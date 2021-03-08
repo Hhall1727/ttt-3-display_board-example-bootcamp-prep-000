@@ -3,6 +3,6 @@ def display_board
   print "   |   |   "  
   puts "\n-----------\n"  
   puts "   |   |   " 
-  puts "\n-----------\n"  
+  puts "-----------\n"  
   puts "   |   |   "
 end 
